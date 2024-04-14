@@ -1,0 +1,12 @@
+.joke-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(1, 1, 1, 0.922);
+  border-radius: 25px;
+  padding: 25px;
+  cursor: pointer;
+}
+
+.another-joke {
+  background-color: rgb(152, 139, 254);
+}
